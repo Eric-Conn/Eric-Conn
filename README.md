@@ -26,6 +26,10 @@ Website: https://eric-conn.github.io/
 
 Some of my projects are analyzing time series data for the NYC Ferry System, forecasting US food import value, and analyzing lottery data.
 
+Notebook about creating higher degree features from a numerical column in a dataframe: 
+[Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
+
+
 
 
 
