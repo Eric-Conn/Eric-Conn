@@ -20,7 +20,7 @@ I'm Eric Connelly, a Data Scientist with a background in Mathematics. I recieved
 I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute of Technology where I also contribute puzzles to their newsletter.
 
 
-website: https://eric-conn.github.io/
+Website: https://eric-conn.github.io/
 
 ### Data Science
 
