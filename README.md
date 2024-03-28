@@ -22,6 +22,9 @@ I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute 
 
 Website: https://eric-conn.github.io/
 
+
+## My Portfolio
+
 ### Data Science
 
 Some of my projects are analyzing time series data for the NYC Ferry System, forecasting US food import value, and analyzing lottery data.
