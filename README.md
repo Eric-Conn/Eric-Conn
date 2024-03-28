@@ -35,6 +35,8 @@ Notebook about making predictions using time series data:
 Notebook about creating higher degree features from a numerical column in a dataframe: 
 [Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
 
+Notebook about US Food Imports:
+[Food Imports Notebook Github](https://github.com/Eric-Conn/USFoodmportsProject/blob/master/FoodImportsNotebook.ipynb)
 
 
 
