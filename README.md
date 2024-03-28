@@ -41,4 +41,4 @@ Notebook about creating higher degree features from a numerical column in a data
 
 ### Math
 
-One of my projects is about the properties of a certain collection of graphs.
+One of my projects is about the properties of a certain collection of graphs. Not done yet.
