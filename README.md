@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Eric Connelly's Portfolio
 
-
+### About Me
 I am currently looking for a role as a Data Scientist. I have a background in Mathematics. I recieved my Bachelor's Degree in Mathemtics from The College of Staten Island. 
 I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute of Technology where I also contribute puzzles to their newsletter.
 
