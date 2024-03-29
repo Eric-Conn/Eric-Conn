@@ -32,11 +32,17 @@ Some of my projects are analyzing time series data for the NYC Ferry System, for
 Notebook about making predictions using time series data: 
 [NYC Ferry Time Series Forecasting Github](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
-Notebook about creating higher degree features from a numerical column in a dataframe: 
-[Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
+
+Notebook about The Mega Millions Lottery:
+[Mega Milions Lottery Notebook Github](https://github.com/Eric-Conn/MegaMillionsAnalysisProject/blob/master/Lottery_Notebook.ipynb)
+
 
 Notebook about US Food Imports:
 [Food Imports Notebook Github](https://github.com/Eric-Conn/USFoodmportsProject/blob/master/FoodImportsNotebook.ipynb)
+
+
+Notebook about creating higher degree features from a numerical column in a dataframe: 
+[Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
 
 
 
