@@ -34,6 +34,13 @@ Notebook about making predictions using time series data:
 [NYC Ferry Time Series Forecasting Github](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
 
+
+Handwritten digit classifier using Convolutional Neural Networks : 
+[Handwritten Digit Recognizer Github](https://github.com/Eric-Conn/DigitRecognizer/blob/master/digitrecognizer.ipynb)
+
+
+
+
 Notebook about The Mega Millions Lottery:
 [Mega Milions Lottery Notebook Github](https://github.com/Eric-Conn/MegaMillionsAnalysisProject/blob/master/Lottery_Notebook.ipynb)
 
