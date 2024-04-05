@@ -26,14 +26,15 @@ Website: https://eric-conn.github.io/
 
 ## My Portfolio
 
-### Data Science
+### Data Science and Machine Learning
 
 Some of my projects are analyzing time series data for the NYC Ferry System, forecasting US food import value, and analyzing lottery data.
 
 Notebook about making predictions using time series data: 
 [NYC Ferry Time Series Forecasting Github](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
-
+Comparing regular gradient descent versus heavy ball gradient descent:
+[Gradient Descent Notebook Github](https://github.com/Eric-Conn/GradientDescent/blob/master/GradientDescent.ipynb)
 
 Handwritten digit classifier using Convolutional Neural Networks : 
 [Handwritten Digit Recognizer Github](https://github.com/Eric-Conn/DigitRecognizer/blob/master/digitrecognizer.ipynb)
