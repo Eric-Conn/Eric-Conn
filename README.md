@@ -23,6 +23,16 @@ I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute 
 
 Website: https://eric-conn.github.io/
 
+Message me on Linkein!
+
+[LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
+
+
+## Resume
+
+Check out my resume:
+
+[My Resume](https://github.com/Eric-Conn/Resume/blob/main/Eric_Connelly_Resume.pdf)
 
 ## My Portfolio
 
