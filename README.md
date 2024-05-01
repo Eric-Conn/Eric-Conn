@@ -21,7 +21,6 @@ I am currently looking for a role as a Data Scientist. I have a background in Ma
 I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute of Technology where I also contribute puzzles to their newsletter.
 
 
-Website: https://eric-conn.github.io/
 
 Message me on Linkein!
 
