@@ -22,7 +22,7 @@ I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute 
 
 
 
-Message me on Linkein!
+Message me on Linkedin!
 
 [LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
 
