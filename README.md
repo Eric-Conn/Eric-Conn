@@ -49,7 +49,7 @@ Handwritten digit classifier using Convolutional Neural Networks :
 [Handwritten Digit Recognizer Github](https://github.com/Eric-Conn/DigitRecognizer/blob/master/digitrecognizer.ipynb)
 
 
-A basic Dashboard I built. Instructions on how to run up here soon : 
+A basic Ddashboard I built using dash. Instructions on how to run up here soon : 
 [Basic Dashboard Using Dash ](https://github.com/Eric-Conn/WashingtonEvDashboard)
 
 
