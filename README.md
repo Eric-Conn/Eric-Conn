@@ -49,10 +49,6 @@ Handwritten digit classifier using Convolutional Neural Networks :
 [Handwritten Digit Recognizer Github](https://github.com/Eric-Conn/DigitRecognizer/blob/master/digitrecognizer.ipynb)
 
 
-A basic Ddashboard I built using dash. Instructions on how to run up here soon : 
-[Basic Dashboard Using Dash ](https://github.com/Eric-Conn/WashingtonEvDashboard)
-
-
 
 
 Notebook about The Mega Millions Lottery:
@@ -66,6 +62,8 @@ Notebook about US Food Imports:
 Notebook about creating higher degree features from a numerical column in a dataframe: 
 [Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
 
+A basic Dashboard I built using dash. Instructions on how to run up here soon : 
+[Basic Dashboard Using Dash ](https://github.com/Eric-Conn/WashingtonEvDashboard)
 
 
 
