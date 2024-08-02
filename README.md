@@ -26,6 +26,12 @@ Message me on Linkedin!
 
 [LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
 
+My Website:
+
+[eric-conn.github.io](https://eric-conn.github.io/)
+
+
+
 
 ## Resume
 
