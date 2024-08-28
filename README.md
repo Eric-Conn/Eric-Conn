@@ -46,8 +46,13 @@ Check out my resume:
 
 Some of my projects are analyzing time series data for the NYC Ferry System, forecasting US food import value, and analyzing lottery data.
 
+
+Analyzing the Staten Island Ferrry Ridership dataset:
+[Staten Island Ferry Time Series Analysis](https://github.com/Eric-Conn/StatenIslandFerryProject/blob/main/StatenIslandFerry_Notebook.ipynb)
+
+
 Notebook about making predictions using time series data: 
-[NYC Ferry Time Series Forecasting Github](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
+[NYC Ferry Time Series Forecasting](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
 Comparing regular gradient descent versus heavy ball gradient descent:
 [Gradient Descent Notebook Github](https://github.com/Eric-Conn/GradientDescent/blob/master/GradientDescent.ipynb)
