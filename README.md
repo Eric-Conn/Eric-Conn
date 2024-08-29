@@ -54,6 +54,13 @@ Analyzing the Staten Island Ferrry Ridership dataset:
 Notebook about making predictions using time series data: 
 [NYC Ferry Time Series Forecasting](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
+IDNYC Data Analysis:
+[Blog Post](https://eric-conn.github.io/IDNYC_Post)
+
+[Notebook](https://github.com/Eric-Conn/IDNYC_Project/blob/main/IDNYC_Notebook.ipynb)
+
+
+
 Comparing regular gradient descent versus heavy ball gradient descent:
 [Gradient Descent Notebook Github](https://github.com/Eric-Conn/GradientDescent/blob/master/GradientDescent.ipynb)
 
