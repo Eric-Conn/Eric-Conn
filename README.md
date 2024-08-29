@@ -54,9 +54,11 @@ Analyzing the Staten Island Ferrry Ridership dataset:
 Notebook about making predictions using time series data: 
 [NYC Ferry Time Series Forecasting](https://github.com/Eric-Conn/NYCFerryData_TimeSeriesForecasting/blob/master/FerryDataFinalReport.ipynb)
 
-IDNYC Data Analysis:
+IDNYC Data Analysis Blog Post:
 [Blog Post](https://eric-conn.github.io/IDNYC_Post)
 
+
+IDNYC Data Analysis Notebook:
 [Notebook](https://github.com/Eric-Conn/IDNYC_Project/blob/main/IDNYC_Notebook.ipynb)
 
 
