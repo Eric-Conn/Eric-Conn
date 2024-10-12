@@ -37,11 +37,12 @@ Message me on Linkedin!
 
 
 
-## Resume
+<!--## Resume
 
 Check out my resume:
 
 [My Resume](https://github.com/Eric-Conn/Resume/blob/main/Eric_Connelly_Resume.pdf)
+-->
 
 ## My Portfolio
 
