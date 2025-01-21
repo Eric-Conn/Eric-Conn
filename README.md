@@ -49,7 +49,8 @@ My Website:
 https://eric-conn.github.io/
 
 
-
+Recent Blog Post:
+[Box Cox Post](https://eric-conn.github.io/BoxCoxPost/final/BoxCoxPost_final_post)
 
 
 
