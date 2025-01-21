@@ -13,6 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Bounder App
+
+Angle of rotation finder
+
+Image Centerer
+
+Image Homotopy
+
+Watch a CNN learn
+
+
+
+
+
+Staten Island Ferry Project
+
 -->
 # Eric Connelly's Portfolio
 
@@ -41,12 +58,24 @@ https://eric-conn.github.io/
 
 
 
+
+
+
+
+
 <!--## Resume
 
 Check out my resume:
 
 [My Resume](https://github.com/Eric-Conn/Resume/blob/main/Eric_Connelly_Resume.pdf)
 -->
+
+
+
+
+
+
+
 
 ## My Portfolio
 
