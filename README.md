@@ -1,37 +1,15 @@
 
-
-<!--
-**Eric-Conn/Eric-Conn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Bounder App
-
-Angle of rotation finder
-
-Image Centerer
-
-Image Homotopy
-
-Watch a CNN learn
-
-
-
-
-
-Staten Island Ferry Project
-
--->
 # Eric Connelly's Portfolio
+
+
+
+
+![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)
+
+
+
+
+
 
 ### About Me
 I am currently looking for a role as a Data Scientist. I have a background in Mathematics. I recieved my Bachelor's Degree in Mathematics from The College of Staten Island. 
@@ -47,6 +25,28 @@ Message me on Linkedin!
 My Website:
 
 https://eric-conn.github.io/
+
+
+
+### Projects
+
+Rotator Tool
+
+Simple Drawing Tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Recent Blog Post:
@@ -73,10 +73,12 @@ Check out my resume:
 -->
 
 
+<!--## Resume
 
 
 
-
+Recent Blog Post:
+[Box Cox Post](https://eric-conn.github.io/BoxCoxPost/final/BoxCoxPost_final_post)
 
 
 ## My Portfolio
@@ -122,11 +124,11 @@ Notebook about US Food Imports:
 Notebook about creating higher degree features from a numerical column in a dataframe: 
 [Higher Degree Features Notebook Github](https://github.com/Eric-Conn/CreatePolynomialFeatures/blob/master/createpolyfeatures.ipynb)
 
-A basic Dashboard I built using dash. Instructions on how to run up here soon : 
-[Basic Dashboard Using Dash ](https://github.com/Eric-Conn/WashingtonEvDashboard)
 
 
 
 ### Math
 
 One of my projects is about the properties of a certain collection of graphs. Not done yet.
+
+-->
