@@ -58,8 +58,9 @@ Cool tool:
 [Simple Drawing Tool](https://eric-conn.github.io/DrawingApp/index3.html)
 
 
+https://eric-conn.github.io/DrawingApp/CompassStraightEdgeTool.html)
 
-
+[Compass and Straightedge Tool](https://eric-conn.github.io/DrawingApp/CompassStraightEdgeTool.html))
 
 
 
