@@ -54,13 +54,6 @@ Recent Blog Post:
 
 
 
-Cool tool:
-[Simple Drawing Tool](https://eric-conn.github.io/DrawingApp/index3.html)
-
-
-
-[Compass and Straightedge Tool](https://eric-conn.github.io/CompassStraightEdgeTool.html)
-
 
 
 
@@ -73,7 +66,6 @@ Check out my resume:
 -->
 
 
-<!--## Resume
 
 
 
@@ -131,4 +123,9 @@ Notebook about creating higher degree features from a numerical column in a data
 
 One of my projects is about the properties of a certain collection of graphs. Not done yet.
 
--->
+Cool tools:
+[Simple Drawing Tool](https://eric-conn.github.io/DrawingApp/index3.html)
+
+
+
+[Compass and Straightedge Tool](https://eric-conn.github.io/CompassStraightEdgeTool.html)
