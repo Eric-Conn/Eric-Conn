@@ -32,7 +32,9 @@ https://eric-conn.github.io/
 
 Rotator Tool
 
-https://github.com/Eric-Conn/RotatorApp/tree/main
+[Rotator Tool](https://github.com/Eric-Conn/RotatorApp/tree/main)
+
+
 
 
 
