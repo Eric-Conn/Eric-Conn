@@ -30,8 +30,6 @@ https://eric-conn.github.io/
 
 ### Projects
 
-Rotator Tool
-
 [Rotator Tool](https://github.com/Eric-Conn/RotatorApp/tree/main)
 
 
