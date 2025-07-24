@@ -32,6 +32,7 @@ https://eric-conn.github.io/
 
 [Rotator Tool](https://github.com/Eric-Conn/RotatorApp/tree/main)
 
+[Graph Builder](https://eric-conn.github.io/GraphMaker/GraphMaker.html)
 
 
 
@@ -48,8 +49,6 @@ https://eric-conn.github.io/
 
 
 
-Recent Blog Post:
-[Box Cox Post](https://eric-conn.github.io/BoxCoxPost/final/BoxCoxPost_final_post)
 
 
 
