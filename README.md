@@ -1,5 +1,5 @@
 
-# Eric Connelly's Portfolio
+# Eric Connelly's Github
 
 
 
