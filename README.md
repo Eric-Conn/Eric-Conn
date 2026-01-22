@@ -20,7 +20,7 @@ I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute 
 Message me on Linkedin!
 
 [LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
-
+<!--- 
 
 My Website:
 
@@ -68,7 +68,7 @@ Check out my resume:
 
 
 
-
+<!--
 Recent Blog Post:
 [Box Cox Post](https://eric-conn.github.io/BoxCoxPost/final/BoxCoxPost_final_post)
 
@@ -126,5 +126,6 @@ One of my projects is about the properties of a certain collection of graphs. No
 simple drawing tool:
 [Simple Drawing Tool](https://eric-conn.github.io/DrawingApp/index3.html)
 
+--->
 
 
