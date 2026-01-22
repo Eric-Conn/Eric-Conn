@@ -26,7 +26,10 @@
 
 ### About Me
 
-I am a mathematical and creative programmer. 
+I am a mathematical and creative programmer.
+
+Feel free to message me on Linkedin:
+[LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
 
 
 
@@ -42,15 +45,14 @@ I am a mathematical and creative programmer.
 
 [Compass and Straightedge Tool](https://eric-conn.github.io/CompassStraightedge_vector.html)
 
+Message me on Linkedin!
 
 
 
 
 ### Resume--->
 
-Message me on Linkedin!
 
-[LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
 <!--- 
 
 
