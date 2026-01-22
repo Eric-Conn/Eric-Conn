@@ -1,7 +1,4 @@
-
 # Eric Connelly's Github
-
-
 
 
 
@@ -30,11 +27,11 @@
 
 
 
-### Portfolio
+## Portfolio
 
 [Graph Builder](https://eric-conn.github.io/GraphMaker/GraphMaker.html)
 
-### About Me
+#### About Me
 
 I am a mathematical and creative programmer.
 
