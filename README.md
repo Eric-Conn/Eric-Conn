@@ -20,11 +20,23 @@
 
 <!--cube_rotate_test_true2.gif-->
 
-<!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)--->
+<!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)
+
+### Resume--->
 
 ### About Me
-I am currently looking for a role as a Data Scientist. I have a background in Mathematics. I recieved my Bachelor's Degree in Mathematics from The College of Staten Island. 
-I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute of Technology where I also contribute puzzles to their newsletter.
+
+I am a mathematical and creative programmer. 
+
+
+
+
+### Portfolio
+
+[Graph Builder](https://eric-conn.github.io/GraphMaker/GraphMaker.html)
+
+[Compass and Straightedge Tool](https://eric-conn.github.io/CompassStraightedge_vector.html)
+
 
 
 
@@ -32,6 +44,12 @@ Message me on Linkedin!
 
 [LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
 <!--- 
+
+
+
+I am currently looking for a role as a Data Scientist. I have a background in Mathematics. I recieved my Bachelor's Degree in Mathematics from The College of Staten Island. 
+I am currently a Math/ Statistics/ Data Analysis Tutor at The Fashion Institute of Technology where I also contribute puzzles to their newsletter.
+
 
 My Website:
 
