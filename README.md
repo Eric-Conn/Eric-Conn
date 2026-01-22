@@ -4,7 +4,9 @@
 
 
 
-![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)
+<!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)--->
+![cool gif](cube_rotate_nested cubes.gif
+
 
 
 
