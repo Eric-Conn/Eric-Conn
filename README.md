@@ -28,8 +28,8 @@
 
 I am a mathematical and creative programmer.
 
-Feel free to message me on Linkedin:
-[LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/)
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/eric-connelly-685525212/).
+
 
 
 
