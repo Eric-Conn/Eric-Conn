@@ -7,9 +7,14 @@
 
 <!--- ![cool gif](cube_rotate_nested_cubes.gif)--->
 
-<img src="cube_rotate_nested_cubes.gif" width="400">
+<!-- <img src="cube_rotate_nested_cubes.gif" width="400"> -->
+<p align = "center" >
+<img src="cube_rotate_test_true2.gif" width="400">
+</p>
 
 
+
+<!--cube_rotate_test_true2.gif-->
 
 <!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)--->
 
