@@ -7,10 +7,10 @@
 
 <!--- ![cool gif](cube_rotate_nested_cubes.gif)--->
 
-<p align = "center" >
+<!-- <p align = "center" >
 <img src="cube_rotate_nested_cubes.gif" width="400">
-</p>
-
+</p> -->
+<img src="cube_rotate_nested_cubes.gif" width="400">
 
 <!-- <p align = "center" >
 <img src="cube_rotate_test_true2.gif" width="350">
