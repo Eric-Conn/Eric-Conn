@@ -31,6 +31,9 @@
 
 [Graph Builder](https://eric-conn.github.io/GraphMaker/GraphMaker.html)
 
+[Normal Distriubtion Visualizer](https://eric-conn.github.io/NormDistViz/)
+
+
 #### About Me
 
 I am a mathematical and creative programmer.
