@@ -4,14 +4,14 @@
 
 
 
+
+<!--- ![cool gif](cube_rotate_nested_cubes.gif)--->
+
+<img src="cube_rotate_nested_cubes.gif" width="400">
+
+
+
 <!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)--->
-![cool gif](cube_rotate_nested_cubes.gif)
-
-
-
-
-
-
 
 ### About Me
 I am currently looking for a role as a Data Scientist. I have a background in Mathematics. I recieved my Bachelor's Degree in Mathematics from The College of Staten Island. 
