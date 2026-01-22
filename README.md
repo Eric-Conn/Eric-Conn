@@ -35,10 +35,18 @@ I am a mathematical and creative programmer.
 
 [Graph Builder](https://eric-conn.github.io/GraphMaker/GraphMaker.html)
 
+
+
+
+<!--- ![cool gif](noise_binom_long_long_0.91_pulse_grey.gif)
+
 [Compass and Straightedge Tool](https://eric-conn.github.io/CompassStraightedge_vector.html)
 
 
 
+
+
+### Resume--->
 
 Message me on Linkedin!
 
